@@ -1,0 +1,51 @@
+
+.MMI{
+  justify-content: center;
+  display: flex;
+}
+.ANI {
+  justify-content: center;
+  display: flex;
+}
+.h3ANI {
+  background-color: orange;
+  color: white;
+  padding: 1%;
+}
+img{
+  width: 7vw;
+  height: 8vh;
+}
+table{
+justify-content: center;
+display: flex;
+border-collapse: separate;
+border-spacing: 5px;
+
+}
+  
+th {
+  width: 5vw;
+  padding: 50px;
+  text-align: center;
+}
+td{
+  text-align: center;
+  /* border: 1px solid black; */
+}
+.action1{
+background-color: orange;
+  color: white;
+  text-align: center;
+  width: 15%;
+  height: 0.5cm;
+  /* border-spacing: 1px; */
+  padding: 0.3%;
+}
+.action2{
+  background-color: orange;
+  color: white;
+  text-align: center;
+  height: 1rem;
+  width: 15%;
+  
